@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## Hi there 👋, I'm Jairos Nyirenda 😄
 
 > I am a fullstack developer, in web and desktop app development, with the leading edge technologies of today. I also do mobile app development! Wow right? 😄😄😄 It's just that I love learning.
-> I am fascinated about Cloud computing, web development, software development,electoronics (begginer level with Arduino), and Blockchain.
+> I am fascinated about Cloud computing, web development, software development, electoronics (begginer level with Arduino), and Blockchain.
 > I want to have my name as builder, Team player, collaborator and, or contributor in the next best Technologies.
 > I have a an Advance (Level 5) Diplomain in Computing, and im planing to pursue an honours degree in Business Information Technology.
 > I have over four years handson experience in web, desktop, and mobile app development!
