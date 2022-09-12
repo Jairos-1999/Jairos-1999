@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 > I want to make great significant impact in people's lives and mentor enthusiasts in this world of technology.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jairos-1999&count_private=true&show_icons=true&theme=gruvbox)
-![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairos-199&layout=compact&theme=gruvbox&hide=html&langs_count=8)
+![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairos-1999&layout=compact&theme=gruvbox&hide=html&langs_count=8)
 
 - 🔭 I’m currently working as a Lead DevOps Engineer in a startup 
 - 🌱 Currently i'm learning about Cloud Development with AWS and Machine Learning with AWS. Next year I plan to learning about data analytics and data science.
