@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 ![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Jairos-1999&layout=compact&theme=gruvbox&hide=html&langs_count=8)
 
 - 🔭 I’m currently working as a Programmer at the Ministry of Natural Resources and Climate Change (Malawi)
-- 🌱 Currently i'm learning about Cloud Development with AWS and Machine Learning with AWS. Next year I plan to learning about data analytics and data science.
+- 🔭 Also I'm working for Dividend Group.
+- 🌱 I'm planing to learning data science.
 - 📫 How to reach me: jairos.pemphonyirenda@gmail.com
